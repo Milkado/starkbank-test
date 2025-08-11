@@ -7,6 +7,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.29.18
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.39.1
 	github.com/go-sql-driver/mysql v1.9.3
+	github.com/gosimple/slug v1.15.0
 	github.com/labstack/echo/v4 v4.13.4
 	github.com/spf13/viper v1.20.1
 	golang.org/x/text v0.25.0
@@ -27,7 +28,6 @@ require (
 	github.com/aws/smithy-go v1.22.5 // indirect
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
-	github.com/gosimple/slug v1.15.0 // indirect
 	github.com/gosimple/unidecode v1.0.1 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
